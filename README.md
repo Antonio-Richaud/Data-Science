@@ -1,5 +1,7 @@
 # Ciencia de Datos 📊📈
 
+<a href="./EN-version/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English Version" width="30"> English Version</a>
+
 En este rincón de internet, iré subiendo poco a poco todos los trabajos interesantes relacionados con la ciencia de datos. Este repositorio es una colección de mis experimentos, análisis y proyectos utilizando diversas técnicas y herramientas de ciencia de datos.
 
 ## Descripción
