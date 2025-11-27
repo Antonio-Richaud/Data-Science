@@ -1,56 +1,78 @@
-# Ciencia de Datos 📊📈
+<h1 align="center">Data Science</h1>
 
-<a href="./EN-version/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English Version" width="30"> English Version</a>
+<p align="center">
+  Laboratorio de experimentos, análisis y proyectos de Ciencia de Datos.
+</p>
 
-En este rincón de internet, iré subiendo poco a poco todos los trabajos interesantes relacionados con la ciencia de datos. Este repositorio es una colección de mis experimentos, análisis y proyectos utilizando diversas técnicas y herramientas de ciencia de datos.
-
-## Descripción
-
-En este repositorio encontrarás diversos trabajos relacionados con la ciencia de datos. Mi objetivo es explorar y experimentar con diferentes técnicas de análisis de datos, algoritmos de machine learning, y herramientas de visualización de datos, compartir mis hallazgos y aprender en el proceso. Algunos de estos trabajos los mostraré en mis videos de [TikTok](https://www.tiktok.com/@antonio_richaud) y [YouTube](https://www.youtube.com/channel/UCuKB7A8ranhDjXVH3pQ5IUA), por lo que podrás ver en detalle cómo funcionan y cómo los implemento.
-
-## Contenido del Repositorio
-
-Este repositorio contiene:
-
-- **Análisis de Datos:** Proyectos de análisis de datos utilizando herramientas como Python, Pandas, y Jupyter Notebooks.
-- **Machine Learning (ML):** Implementaciones de algoritmos de ML, modelos de predicción, y estudios de casos prácticos.
-- **Visualización de Datos:** Trabajos relacionados con la creación de gráficos y visualizaciones interactivas usando herramientas como Matplotlib, Seaborn, y Plotly.
-- **Procesamiento de Lenguaje Natural (NLP):** Proyectos enfocados en el análisis de texto, generación de lenguaje natural, etc.
-- **Big Data:** Experimentos y proyectos utilizando tecnologías de big data como Hadoop y Spark.
-
-## Cómo Utilizar Este Repositorio
-
-Puedes clonar este repositorio para explorar los proyectos y experimentos por ti mismo. Aquí tienes cómo hacerlo:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone https://github.com/Antonio-Richaud/Data-Science.git
-   ```
-2. **Explorar los proyectos:**
-   Cada carpeta contiene un proyecto diferente con su propio README explicando cómo funciona y cómo puedes ejecutarlo.
-
-## Contribuciones
-
-Siéntete libre de contribuir a este repositorio. Aquí hay algunos pasos básicos:
-
-1. Haz un fork del proyecto.
-2. Crea una nueva rama (`git checkout -b feature/nueva_característica`).
-3. Realiza tus cambios y haz un commit (`git commit -m 'Añadir nueva característica'`).
-4. Sube tus cambios (`git push origin feature/nueva_característica`).
-5. Abre un Pull Request.
-
-## Contacto
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-8E2DE2?style=for-the-badge&labelColor=1b1b1f&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%20%26%20Jupyter-8E2DE2?style=for-the-badge&labelColor=1b1b1f&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-%20Experimentación-8E2DE2?style=for-the-badge&labelColor=1b1b1f" />
+</p>
 
 ---
 
-**Conecta conmigo en alguna de mis redes sociales 🤓**
+## 🎯 ¿Qué es este repositorio?
 
-Si deseas seguir mi progreso o conectar conmigo, puedes hacerlo a través de mis redes sociales o visitar mi portafolio web:
+En este repositorio voy a ir subiendo mis proyectos, aportes, experimentos y experimentos de **Ciencia de Datos**.
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-richaud/)
-[![X](https://img.shields.io/badge/-(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Antonio_Richaud)
-[![Youtube](https://img.shields.io/badge/-YOUTUBE-D14836?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AntonioRichaud/)
-[![TIKTOK](https://img.shields.io/badge/-TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@antonio_richaud)
-[![Antonio-Richaud.com](https://img.shields.io/badge/-ANTONIORICHAUD.COM-8E2DE2?style=for-the-badge&logo=react&logoColor=white)](https://antonio-richaud.com/)
+La idea es que este repo funcione como un **hub** donde puedas:
+
+- Ver rápidamente en qué proyectos de data estoy trabajando o he trabajado.
+- Entrar directo a cada carpeta o repositorio.
+- Revisar notebooks, código y resultados sin perderte entre archivos.
+
+Algunos de estos proyectos también aparecerán en mi:
+
+- [TikTok](https://www.tiktok.com/@antonio_richaud)
+- [YouTube](https://www.youtube.com/@AntonioRichaud)
+- [Instagram](https://instagram.com/antonio.richaud)
+- [Blog personal](https://antonio-richaud.com/blog/index.html)
+
+donde explico con más calma cómo están hechos por dentro.
+
+---
+
+## 📂 Índice de proyectos
+
+> Reemplaza los enlaces a medida que vayas creando carpetas o repos.  
+> La idea es que este bloque sea tu “linktree” de data science.
+
+| Proyecto / Tema                            | Tipo / Área                        | Enlace |
+| ------------------------------------------ | ---------------------------------- | ------ |
+| Exploración de datos (EDA)                 | Análisis exploratorio, limpieza    | <!-- ./eda/ --> _(próximamente)_ |
+| Series de tiempo y pronósticos             | Forecasting, modelos ARIMA/otros   | <!-- ./series-tiempo/ --> _(próximamente)_ |
+| Modelos de clasificación y regresión       | ML supervisado                     | <!-- ./ml-supervisado/ --> _(próximamente)_ |
+| NLP y análisis de texto                    | Procesamiento de lenguaje natural  | <!-- ./nlp/ --> _(próximamente)_ |
+| Visualización avanzada e interactividad    | Dashboards, Plotly, etc.           | <!-- ./visualizacion/ --> _(próximamente)_ |
+| Experimentos con datos financieros / trading | Series de tiempo, estrategias      | <!-- repo externo / carpeta --> _(próximamente)_ |
+
+<!--
+Ejemplos de cómo podrías dejarlo cuando tengas carpetas reales:
+
+| Exploración de datos de ventas retail      | Análisis exploratorio, outliers    | [./eda-retail](./eda-retail/) |
+| Robot de trading con cripto                | ML + series de tiempo              | [./trading-crypto](./trading-crypto/) |
+-->
+
+---
+
+## 🧩 Contenido del repositorio
+
+En este repositorio encontrarás proyectos relacionados con:
+
+- **Análisis de datos**  
+  Uso de Python, Pandas, NumPy y Jupyter Notebooks para entender, limpiar y transformar datos.
+
+- **Machine Learning (ML)**  
+  Modelos de clasificación, regresión, clustering, validación de modelos y experimentos con distintos algoritmos.
+
+- **Visualización de datos**  
+  Gráficas y visualizaciones usando herramientas como Matplotlib, Seaborn y Plotly, con el enfoque en explicar resultados de forma clara.
+
+- **NLP (Procesamiento de Lenguaje Natural)**  
+  Proyectos de análisis de texto, extracción de información y, eventualmente, generación de texto.
+
+- **Big Data (cuando aplique)**  
+  Experimentos con tecnologías como Hadoop, Spark u otros frameworks para manejar grandes volúmenes de datos.
 
 ---
