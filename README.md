@@ -35,9 +35,6 @@ donde explico con más calma cómo están hechos por dentro.
 
 ## 📂 Índice de proyectos
 
-> Reemplaza los enlaces a medida que vayas creando carpetas o repos.  
-> La idea es que este bloque sea tu “linktree” de data science.
-
 | Proyecto / Tema                                   | Tipo / Área                                               | Enlace |
 | ------------------------------------------------- | --------------------------------------------------------- | ------ |
 | Robot de trading (Challenge Oracle)              | Series de tiempo, trading algorítmico y ML supervisado    | [Ver repositorio](https://github.com/Antonio-Richaud/Challenge-Robot-Trading) |
