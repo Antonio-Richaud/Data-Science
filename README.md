@@ -38,15 +38,15 @@ donde explico con más calma cómo están hechos por dentro.
 > Reemplaza los enlaces a medida que vayas creando carpetas o repos.  
 > La idea es que este bloque sea tu “linktree” de data science.
 
-| Proyecto / Tema                            | Tipo / Área                        | Enlace |
-| ------------------------------------------ | ---------------------------------- | ------ |
-|Robot de trading (Challenge Oracle)                 | Análisis exploratorio, limpieza    | https://github.com/Antonio-Richaud/Challenge-Robot-Trading|
-| Esencia-del-cliente (Challege Oracle)             | Forecasting, modelos ARIMA/otros   | https://github.com/Antonio-Richaud/Challenge-Esenciadelcliente|
-| Apuntes y tareas DataScience Oracle       | ML supervisado                     | https://github.com/Antonio-Richaud/Alura-Datascience-Bootcamp |
+| Proyecto / Tema                                   | Tipo / Área                                               | Enlace |
+| ------------------------------------------------- | --------------------------------------------------------- | ------ |
+| Robot de trading (Challenge Oracle)              | Series de tiempo, trading algorítmico y ML supervisado    | [Ver repositorio](https://github.com/Antonio-Richaud/Challenge-Robot-Trading) |
+| Esencia del Cliente (Challenge Oracle)           | Análisis de clientes, clasificación y segmentación        | [Ver repositorio](https://github.com/Antonio-Richaud/Challenge-Esenciadelcliente) |
+| Apuntes y tareas de Data Science (Bootcamp Oracle/Alura) | Notas, ejercicios y proyectos del bootcamp de Data Science | [Ver repositorio](https://github.com/Antonio-Richaud/Alura-Datascience-Bootcamp) |
 
 
 <!--
-Ejemplos de cómo podrías dejarlo cuando tengas carpetas reales:
+Ejemplos de cómo podríamos dejarlo cuando tengas carpetas reales:
 
 | Exploración de datos de ventas retail      | Análisis exploratorio, outliers    | [./eda-retail](./eda-retail/) |
 | Robot de trading con cripto                | ML + series de tiempo              | [./trading-crypto](./trading-crypto/) |
