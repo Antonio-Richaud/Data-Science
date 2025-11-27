@@ -1,4 +1,4 @@
-<h1 align="center">Data Science</h1>
+<h1 align="center">Data Science 📊📈</h1>
 
 <p align="center">
   Laboratorio de experimentos, análisis y proyectos de Ciencia de Datos.
@@ -7,29 +7,27 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Data%20Science-8E2DE2?style=for-the-badge&labelColor=1b1b1f&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%20%26%20Jupyter-8E2DE2?style=for-the-badge&labelColor=1b1b1f&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-%20Experimentación-8E2DE2?style=for-the-badge&labelColor=1b1b1f" />
+  <img src="https://img.shields.io/badge/ML-Experimentación-8E2DE2?style=for-the-badge&labelColor=1b1b1f" />
 </p>
 
 ---
 
 ## 🎯 ¿Qué es este repositorio?
 
-En este repositorio voy a ir subiendo mis proyectos, aportes, experimentos y experimentos de **Ciencia de Datos**.
+En este repositorio concentro mis proyectos y experimentos de **Ciencia de Datos**.
 
-La idea es que este repo funcione como un **hub** donde puedas:
+La idea es que funcione como un **hub / índice (tipo linktree)** donde puedas:
 
-- Ver rápidamente en qué proyectos de data estoy trabajando o he trabajado.
-- Entrar directo a cada carpeta o repositorio.
+- Ver rápidamente en qué proyectos de data estoy trabajando.
+- Entrar directo a cada repositorio o carpeta.
 - Revisar notebooks, código y resultados sin perderte entre archivos.
 
-Algunos de estos proyectos también aparecerán en mi:
+Algunos de estos proyectos también aparecen en:
 
 - [TikTok](https://www.tiktok.com/@antonio_richaud)
 - [YouTube](https://www.youtube.com/@AntonioRichaud)
-- [Instagram](https://instagram.com/antonio.richaud)
-- [Blog personal](https://antonio-richaud.com/blog/index.html)
 
-donde explico con más calma cómo están hechos por dentro.
+donde explico con más detalle cómo están construidos.
 
 ---
 
@@ -41,33 +39,27 @@ donde explico con más calma cómo están hechos por dentro.
 | Esencia del Cliente (Challenge Oracle)           | Análisis de clientes, clasificación y segmentación        | [Ver repositorio](https://github.com/Antonio-Richaud/Challenge-Esenciadelcliente) |
 | Apuntes y tareas de Data Science (Bootcamp Oracle/Alura) | Notas, ejercicios y proyectos del bootcamp de Data Science | [Ver repositorio](https://github.com/Antonio-Richaud/Alura-Datascience-Bootcamp) |
 
-
-<!--
-Ejemplos de cómo podríamos dejarlo cuando tengas carpetas reales:
-
-| Exploración de datos de ventas retail      | Análisis exploratorio, outliers    | [./eda-retail](./eda-retail/) |
-| Robot de trading con cripto                | ML + series de tiempo              | [./trading-crypto](./trading-crypto/) |
--->
+> Este índice irá creciendo conforme agregue nuevos proyectos y experimentos.
 
 ---
 
-## 🧩 Contenido del repositorio
+## 🧩 Contenido de este repositorio
 
-En este repositorio encontrarás proyectos relacionados con:
+En este repo (y los que enlaza) encontrarás proyectos relacionados con:
 
 - **Análisis de datos**  
-  Uso de Python, Pandas, NumPy y Jupyter Notebooks para entender, limpiar y transformar datos.
+  Limpieza, transformación y análisis exploratorio usando Python, Pandas, NumPy y Jupyter Notebooks.
 
 - **Machine Learning (ML)**  
-  Modelos de clasificación, regresión, clustering, validación de modelos y experimentos con distintos algoritmos.
+  Modelos de clasificación, regresión, clustering, métricas de evaluación y pruebas con distintos algoritmos.
 
 - **Visualización de datos**  
-  Gráficas y visualizaciones usando herramientas como Matplotlib, Seaborn y Plotly, con el enfoque en explicar resultados de forma clara.
+  Gráficos y dashboards usando Matplotlib, Seaborn, Plotly y otras herramientas para comunicar resultados.
 
 - **NLP (Procesamiento de Lenguaje Natural)**  
-  Proyectos de análisis de texto, extracción de información y, eventualmente, generación de texto.
+  Análisis de texto, extracción de información, clasificación de documentos, etc.
 
-- **Big Data (cuando aplique)**  
-  Experimentos con tecnologías como Hadoop, Spark u otros frameworks para manejar grandes volúmenes de datos.
+- **Datos financieros / trading**  
+  Experimentos con series de tiempo, señales, estrategias y modelos para análisis cuantitativo.
 
 ---
