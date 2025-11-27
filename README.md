@@ -40,7 +40,7 @@ donde explico con más calma cómo están hechos por dentro.
 
 | Proyecto / Tema                            | Tipo / Área                        | Enlace |
 | ------------------------------------------ | ---------------------------------- | ------ |
-| Exploración de datos (EDA)                 | Análisis exploratorio, limpieza    | <!-- ./eda/ --> _(próximamente)_ |
+|Robot de trading                 | Análisis exploratorio, limpieza    | https://github.com/Antonio-Richaud/Challenge-Robot-Trading|
 | Series de tiempo y pronósticos             | Forecasting, modelos ARIMA/otros   | <!-- ./series-tiempo/ --> _(próximamente)_ |
 | Modelos de clasificación y regresión       | ML supervisado                     | <!-- ./ml-supervisado/ --> _(próximamente)_ |
 | NLP y análisis de texto                    | Procesamiento de lenguaje natural  | <!-- ./nlp/ --> _(próximamente)_ |
