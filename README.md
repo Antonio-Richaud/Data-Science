@@ -40,12 +40,10 @@ donde explico con más calma cómo están hechos por dentro.
 
 | Proyecto / Tema                            | Tipo / Área                        | Enlace |
 | ------------------------------------------ | ---------------------------------- | ------ |
-|Robot de trading                 | Análisis exploratorio, limpieza    | https://github.com/Antonio-Richaud/Challenge-Robot-Trading|
-| Series de tiempo y pronósticos             | Forecasting, modelos ARIMA/otros   | <!-- ./series-tiempo/ --> _(próximamente)_ |
-| Modelos de clasificación y regresión       | ML supervisado                     | <!-- ./ml-supervisado/ --> _(próximamente)_ |
-| NLP y análisis de texto                    | Procesamiento de lenguaje natural  | <!-- ./nlp/ --> _(próximamente)_ |
-| Visualización avanzada e interactividad    | Dashboards, Plotly, etc.           | <!-- ./visualizacion/ --> _(próximamente)_ |
-| Experimentos con datos financieros / trading | Series de tiempo, estrategias      | <!-- repo externo / carpeta --> _(próximamente)_ |
+|Robot de trading (Challenge Oracle)                 | Análisis exploratorio, limpieza    | https://github.com/Antonio-Richaud/Challenge-Robot-Trading|
+| Esencia-del-cliente (Challege Oracle)             | Forecasting, modelos ARIMA/otros   | https://github.com/Antonio-Richaud/Challenge-Esenciadelcliente|
+| Apuntes y tareas DataScience Oracle       | ML supervisado                     | https://github.com/Antonio-Richaud/Alura-Datascience-Bootcamp |
+
 
 <!--
 Ejemplos de cómo podrías dejarlo cuando tengas carpetas reales:
