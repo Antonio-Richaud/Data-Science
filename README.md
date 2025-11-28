@@ -22,12 +22,17 @@ La idea es que este repo funcione como un **hub** donde puedas:
 - Entrar directo a cada carpeta o repositorio.
 - Revisar notebooks, código y resultados sin perderte entre archivos.
 
+Aqui podras ver los codigos de mis proyectos que presento en mis redes sociales
+
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-richaud/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/Antonio_Richaud">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.instagram.com/antonio.richaud/"">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@AntonioRichaud/">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
