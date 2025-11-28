@@ -27,7 +27,7 @@ La idea es que este repo funcione como un **hub** donde puedas:
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8E2DE2" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/Antonio_Richaud">
-    <img src="https://img.shields.io/badge/X-@Antonio__Richaud-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=8E2DE2" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/@Antonio__Richaud-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=8E2DE2" alt="X (Twitter)" />
   </a>
   <a href="https://www.youtube.com/@AntonioRichaud/">
     <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8E2DE2" alt="YouTube" />
@@ -40,11 +40,6 @@ La idea es que este repo funcione como un **hub** donde puedas:
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Antonio-Richaud">
-    <img src="https://img.shields.io/badge/GitHub-Volver%20a%20mi%20perfil-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2" alt="Volver a mi perfil de GitHub" />
-  </a>
-</p>
 
 donde explico con más calma cómo están hechos por dentro.
 
@@ -88,3 +83,8 @@ En este repositorio encontrarás proyectos relacionados con:
   Experimentos con tecnologías como Hadoop, Spark u otros frameworks para manejar grandes volúmenes de datos.
 
 ---
+<p align="center">
+  <a href="https://github.com/Antonio-Richaud">
+    <img src="https://img.shields.io/badge/GitHub-Volver%20a%20mi%20perfil-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2" alt="Volver a mi perfil de GitHub" />
+  </a>
+</p>
