@@ -22,12 +22,29 @@ La idea es que este repo funcione como un **hub** donde puedas:
 - Entrar directo a cada carpeta o repositorio.
 - Revisar notebooks, código y resultados sin perderte entre archivos.
 
-Algunos de estos proyectos también aparecerán en mi:
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-richaud/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8E2DE2" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/Antonio_Richaud">
+    <img src="https://img.shields.io/badge/X-@Antonio__Richaud-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=8E2DE2" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.youtube.com/@AntonioRichaud/">
+    <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8E2DE2" alt="YouTube" />
+  </a>
+  <a href="https://www.tiktok.com/@antonio_richaud">
+    <img src="https://img.shields.io/badge/TikTok-@antonio__richaud-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=8E2DE2" alt="TikTok" />
+  </a>
+  <a href="https://antonio-richaud.com/">
+    <img src="https://img.shields.io/badge/Web-antonio--richaud.com-1b1b1f?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2" alt="Sitio web" />
+  </a>
+</p>
 
-- [TikTok](https://www.tiktok.com/@antonio_richaud)
-- [YouTube](https://www.youtube.com/@AntonioRichaud)
-- [Instagram](https://instagram.com/antonio.richaud)
-- [Blog personal](https://antonio-richaud.com/blog/index.html)
+<p align="center">
+  <a href="https://github.com/Antonio-Richaud">
+    <img src="https://img.shields.io/badge/GitHub-Volver%20a%20mi%20perfil-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2" alt="Volver a mi perfil de GitHub" />
+  </a>
+</p>
 
 donde explico con más calma cómo están hechos por dentro.
 
