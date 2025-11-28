@@ -24,22 +24,21 @@ La idea es que este repo funcione como un **hub** donde puedas:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-richaud/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8E2DE2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/Antonio_Richaud">
-    <img src="https://img.shields.io/badge/@Antonio__Richaud-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=8E2DE2" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="https://www.youtube.com/@AntonioRichaud/">
-    <img src="https://img.shields.io/badge/YouTube-Canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8E2DE2" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.tiktok.com/@antonio_richaud">
-    <img src="https://img.shields.io/badge/TikTok-@antonio__richaud-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=8E2DE2" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://antonio-richaud.com/">
-    <img src="https://img.shields.io/badge/Web-antonio--richaud.com-1b1b1f?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2" alt="Sitio web" />
+    <img src="https://img.shields.io/badge/Web-8E2DE2?style=for-the-badge&logo=react&logoColor=white" alt="Sitio web" />
   </a>
 </p>
-
 
 donde explico con más calma cómo están hechos por dentro.
 
